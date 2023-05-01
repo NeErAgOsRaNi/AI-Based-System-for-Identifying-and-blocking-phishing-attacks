@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=3mRlSsThoY0&t=96s
 * Machine learning 
 
 ## Flowchart / Block Diagram
-![picture alt](http://via.placeholder.com/200x150)
+![picture alt](Flowchart_BlockDiagram/Img1.jpg/200x150)
