@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=3mRlSsThoY0&t=96s
 
 ## Flowchart / Block Diagram
 ![Alt text](https://github.com/NeErAgOsRaNi/AI-Based-System-for-Identifying-and-blocking-phishing-attacks/blob/2f45415e7449c0c3b0256dd90853fbbc49ce091e/Flowchart_BlockDiagram/Img1.jpg)
+![Alt text](https://github.com/NeErAgOsRaNi/AI-Based-System-for-Identifying-and-blocking-phishing-attacks/blob/d1309056665651d98ad43ca97285cea92b73d3f0/Flowchart_BlockDiagram/Img2.jpg)
+![Alt text](https://github.com/NeErAgOsRaNi/AI-Based-System-for-Identifying-and-blocking-phishing-attacks/blob/d1309056665651d98ad43ca97285cea92b73d3f0/Flowchart_BlockDiagram/Img3.jpg)
